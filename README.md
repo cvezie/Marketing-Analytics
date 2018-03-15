@@ -1,1 +1,3 @@
 # Marketing-Analytics
+
+For this project I looked at data ... 
